@@ -2,7 +2,7 @@
 Data Science projects from Yandex Practicum completed in 2022-2023
 # Projects 2022-2023
 
-## These projects were completed during Yandex.Practicum course "Specialist in Data Science"
+## These projects were completed during Yandex.Practicum course "Data Science Specialist"
 
 | Name |  Description | Libraries         |
 | :------------------------ | :------------------------ |:------------------------ |
@@ -37,11 +37,3 @@ Data Science projects from Yandex Practicum completed in 2022-2023
 |[Защита персональных данных клиентов](https://github.com/Sin7009/Data_Science_Projects/blob/main/Projects/Protection.ipynb)| Нужно защитить данные клиентов страховой компании Необходимо разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию, а также обосновать корректность его работы.|*pandas, numpy, random, seaborn, matplotlib, IPython, sklearn*|
 |[Исследование объявлений о продаже квартир](https://github.com/Sin7009/Data_Science_Projects/blob/main/Projects/Researching_flats_advertisements.ipynb)|В рамках данного проекта необходимо установить параметры, которые позволят построить автоматизированную систему, отслеживающую аномалии и мошенническую деятельность.|*re, pandas, numpy, statistics, seaborn, IPython, matplotlib*|
 |[Исследование надежности заемщиков]()|В проекте рассматривается взаимосвязь между доходом, стажем работы, количеством членов семьи и проч. характеристиками заёмщиков и их способностью возвращать заёмы в срок.|*pandas, seaborn, matplotlib, numpy*|
-
-
-
-
-
-
-
-
