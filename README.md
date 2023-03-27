@@ -70,7 +70,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-5f78171ebd72.js"></script>
   
 
-  <title>ds_projects_2022/README.md at main · anshilina/ds_projects_2022</title>
+  <title>Data_Science_Projects/README.md at main · Sin7009/Data_Science_Projects</title>
 
 
 
@@ -80,10 +80,10 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="E8F6:103C:1ADD6E6:1B6A0D2:6421D263" data-turbo-transient="true" /><meta name="html-safe-nonce" content="e05ab961d57d4d973d013ddbfe06695ed63ea0141dfde7574cd9e437ad6a4252" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hbnNoaWxpbmEvZHNfcHJvamVjdHNfMjAyMiIsInJlcXVlc3RfaWQiOiJFOEY2OjEwM0M6MUFERDZFNjoxQjZBMEQyOjY0MjFEMjYzIiwidmlzaXRvcl9pZCI6IjU0ODkzODcxNjI4Mzc2NzI4MzgiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="d7b6abfbf3763c568bb50c41a679e0778276c9ac7a9904125f57b8642bfa628d" data-turbo-transient="true" />
+  <meta name="request-id" content="E37B:118DE:1C42A99:1CD70C9:6421D5FA" data-turbo-transient="true" /><meta name="html-safe-nonce" content="e05ab961d57d4d973d013ddbfe06695ed63ea0141dfde7574cd9e437ad6a4252" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9TaW43MDA5L0RhdGFfU2NpZW5jZV9Qcm9qZWN0cyIsInJlcXVlc3RfaWQiOiJFMzdCOjExOERFOjFDNDJBOTk6MUNENzBDOTo2NDIxRDVGQSIsInZpc2l0b3JfaWQiOiI1NDg5Mzg3MTYyODM3NjcyODM4IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="8fc104cb6a5f06216afcc6fa692987505a09516bc934189af45709c1615e75ae" data-turbo-transient="true" />
 
 
-    <meta name="hovercard-subject-tag" content="repository:582982798" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:619909158" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
@@ -114,16 +114,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Data Science projects completed in 2022-2023. Contribute to anshilina/ds_projects_2022 development by creating an account on GitHub.">
+      <meta name="description" content="Data Science projects from Yandex Practicum completed in 2022-2023 - Data_Science_Projects/README.md at main · Sin7009/Data_Science_Projects">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/0799956dcbcee64e3a6e27b1cb1838f171ffc13e8d77d0c7dc87deb29c3ec52b/anshilina/ds_projects_2022" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="ds_projects_2022/README.md at main · anshilina/ds_projects_2022" /><meta name="twitter:description" content="Data Science projects completed in 2022-2023. Contribute to anshilina/ds_projects_2022 development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/0799956dcbcee64e3a6e27b1cb1838f171ffc13e8d77d0c7dc87deb29c3ec52b/anshilina/ds_projects_2022" /><meta property="og:image:alt" content="Data Science projects completed in 2022-2023. Contribute to anshilina/ds_projects_2022 development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ds_projects_2022/README.md at main · anshilina/ds_projects_2022" /><meta property="og:url" content="https://github.com/anshilina/ds_projects_2022" /><meta property="og:description" content="Data Science projects completed in 2022-2023. Contribute to anshilina/ds_projects_2022 development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/72f86ba68681d2038f0c8efbc0f476cb2f2838474b48d650b04830db498a921f/Sin7009/Data_Science_Projects" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Data_Science_Projects/README.md at main · Sin7009/Data_Science_Projects" /><meta name="twitter:description" content="Data Science projects from Yandex Practicum completed in 2022-2023 - Data_Science_Projects/README.md at main · Sin7009/Data_Science_Projects" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/72f86ba68681d2038f0c8efbc0f476cb2f2838474b48d650b04830db498a921f/Sin7009/Data_Science_Projects" /><meta property="og:image:alt" content="Data Science projects from Yandex Practicum completed in 2022-2023 - Data_Science_Projects/README.md at main · Sin7009/Data_Science_Projects" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Data_Science_Projects/README.md at main · Sin7009/Data_Science_Projects" /><meta property="og:url" content="https://github.com/Sin7009/Data_Science_Projects" /><meta property="og:description" content="Data Science projects from Yandex Practicum completed in 2022-2023 - Data_Science_Projects/README.md at main · Sin7009/Data_Science_Projects" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/82525419/ws?session=eyJ2IjoiVjMiLCJ1Ijo4MjUyNTQxOSwicyI6MTAwNzU2OTM3OCwiYyI6MzI0MjU0NjIzLCJ0IjoxNjc5OTM4MTUwfQ==--ddc1b6ae9c6d55b2b516532aed5ae730cc982bc93d04cc8ec4fa6d94b6b9d89e" data-refresh-url="/_alive" data-session-id="8edf34e76528047e9aece70f77b3bba5f1aea8525c2a1be3bb1ed01a4e25e776">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/82525419/ws?session=eyJ2IjoiVjMiLCJ1Ijo4MjUyNTQxOSwicyI6MTAwNzU2OTM3OCwiYyI6MTY2ODA3NzczOSwidCI6MTY3OTkzOTA3MH0=--9e2c0908d262f17d6ea1ccc4ec8bb392faac924c4874bbf9917a0ae627cdb5a7" data-refresh-url="/_alive" data-session-id="8edf34e76528047e9aece70f77b3bba5f1aea8525c2a1be3bb1ed01a4e25e776">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-d7c2fe14563a.js">
 
 
@@ -147,13 +147,13 @@
 
         <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/anshilina/ds_projects_2022 git https://github.com/anshilina/ds_projects_2022.git">
+  <meta name="go-import" content="github.com/Sin7009/Data_Science_Projects git https://github.com/Sin7009/Data_Science_Projects.git">
 
-  <meta name="octolytics-dimension-user_id" content="84634769" /><meta name="octolytics-dimension-user_login" content="anshilina" /><meta name="octolytics-dimension-repository_id" content="582982798" /><meta name="octolytics-dimension-repository_nwo" content="anshilina/ds_projects_2022" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="582982798" /><meta name="octolytics-dimension-repository_network_root_nwo" content="anshilina/ds_projects_2022" />
+  <meta name="octolytics-dimension-user_id" content="82525419" /><meta name="octolytics-dimension-user_login" content="Sin7009" /><meta name="octolytics-dimension-repository_id" content="619909158" /><meta name="octolytics-dimension-repository_nwo" content="Sin7009/Data_Science_Projects" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="619909158" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Sin7009/Data_Science_Projects" />
 
 
 
-    <link rel="canonical" href="https://github.com/anshilina/ds_projects_2022/blob/main/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -227,7 +227,7 @@
 <div class="header-search flex-auto position-relative js-site-search flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="582982798" data-scoped-search-url="/anshilina/ds_projects_2022/search" data-owner-scoped-search-url="/users/anshilina/search" data-unscoped-search-url="/search" data-turbo="false" action="/anshilina/ds_projects_2022/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="619909158" data-scoped-search-url="/Sin7009/Data_Science_Projects/search" data-owner-scoped-search-url="/users/Sin7009/search" data-unscoped-search-url="/search" data-turbo="false" action="/Sin7009/Data_Science_Projects/search" accept-charset="UTF-8" method="get">
       <label class="form-control header-search-wrapper input-sm p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control js-site-search-focus header-search-input jump-to-field js-jump-to-field js-site-search-field is-clearable"
@@ -248,7 +248,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="Vz5KeB2YHkdoj3o92MRZn3b7fo9hFfIvgG7cBy9XGNp8_LG6sL4fPdM84MuON5zWiQpK5s6F4vxODWp5D8jTUw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="JvAHIHgsuOz0yL0Z5Q5IEabgwqOOH2fYeQ1kQFk5448NMvzi1Qq5lk97J--z_Y1YWRH2yiGPdwu3btI-eaYoBg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -447,7 +447,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Sin7009&quot;,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="3ee3f141896744e6e0dd4d0e85d176c0d6abc2cca6da47d0fb75fbccb5c8c201" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Sin7009&quot;,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="e504b89fa980a8166a0c69928b7c1baeda4084061eee64d28d2131f11f71db42" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -455,7 +455,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/82525419?s=40&amp;v=4" width="20" height="20" alt="@Sin7009" />
       Sin7009
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sLIK1-gway18cC9vfBIYMdUfWTTh-INewvo-iCGgNzmfNY9mtO85o_HYFAFdduXRx70rWNNMRchC0du-5ZWDgA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="d205rhQ6QKtHFiI6migQTwcfvh1jOeMwUnBvgFc6Uc5Y6rwfSOUSJcq-GVS7TO2vFb3McVGNJabSW4q2kw_ldw" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -490,7 +490,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODI1MjU0MTkiLCJ0IjoxNjc5OTM4MTUwfQ==--fa640cb60d376ec16dbe64c1122e9117d75b34c663235991a77a2accd415178d" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODI1MjU0MTkiLCJ0IjoxNjc5OTM5MDcwfQ==--15dfcd605d6370e15c565e9c96a3de425d7d04de23da9024c115db2a0348d586" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -633,7 +633,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODI1MjU0MTkiLCJ0IjoxNjc5OTM4MTUwfQ==--fa640cb60d376ec16dbe64c1122e9117d75b34c663235991a77a2accd415178d" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODI1MjU0MTkiLCJ0IjoxNjc5OTM5MDcwfQ==--15dfcd605d6370e15c565e9c96a3de425d7d04de23da9024c115db2a0348d586" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -650,7 +650,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/anshilina/ds_projects_2022/blob/main/README.md
+      return-to=/Sin7009/Data_Science_Projects/blob/main/README.md
       user-id="82525419"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -754,23 +754,23 @@
         <command-palette-scope >
           <div data-target="command-palette-scope.placeholder" hidden class="color-fg-subtle">/&nbsp;&nbsp;<span class="text-semibold color-fg-default">...</span>&nbsp;&nbsp;/&nbsp;&nbsp;</div>
               <command-palette-token
-                data-text="anshilina"
-                data-id="MDQ6VXNlcjg0NjM0NzY5"
+                data-text="Sin7009"
+                data-id="MDQ6VXNlcjgyNTI1NDE5"
                 data-type="owner"
-                data-value="anshilina"
+                data-value="Sin7009"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >anshilina<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >Sin7009<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
-                data-text="ds_projects_2022"
-                data-id="R_kgDOIr-cjg"
+                data-text="Data_Science_Projects"
+                data-id="R_kgDOJPMQJg"
                 data-type="repository"
-                data-value="ds_projects_2022"
+                data-value="Data_Science_Projects"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >ds_projects_2022<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >Data_Science_Proj...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
         </command-palette-scope>
         <div class="command-palette-input-group flex-1 form-control border-0 box-shadow-none" style="z-index: 0">
           <div class="command-palette-typeahead position-absolute d-flex flex-items-center Truncate">
@@ -807,12 +807,12 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-4b65e16f-9869-4951-9562-a5c472b0ed89" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-7199b269-903c-473b-9473-d4d03808abc4" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
       <command-palette-page-stack
-        data-default-scope-id="R_kgDOIr-cjg"
+        data-default-scope-id="R_kgDOJPMQJg"
         data-default-scope-type="Repository"
         data-action="command-palette-page-octicons-cached:command-palette-page-stack#cacheOcticons"
       >
@@ -1232,16 +1232,16 @@
             </command-palette-item-group>
 
             <command-palette-page
-              data-page-title="anshilina"
-              data-scope-id="MDQ6VXNlcjg0NjM0NzY5"
+              data-page-title="Sin7009"
+              data-scope-id="MDQ6VXNlcjgyNTI1NDE5"
               data-scope-type="owner"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
             >
             </command-palette-page>
             <command-palette-page
-              data-page-title="ds_projects_2022"
-              data-scope-id="R_kgDOIr-cjg"
+              data-page-title="Data_Science_Projects"
+              data-scope-id="R_kgDOJPMQJg"
               data-scope-type="repository"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
@@ -1252,14 +1252,14 @@
         <command-palette-page data-is-root>
         </command-palette-page>
           <command-palette-page
-            data-page-title="anshilina"
-            data-scope-id="MDQ6VXNlcjg0NjM0NzY5"
+            data-page-title="Sin7009"
+            data-scope-id="MDQ6VXNlcjgyNTI1NDE5"
             data-scope-type="owner"
           >
           </command-palette-page>
           <command-palette-page
-            data-page-title="ds_projects_2022"
-            data-scope-id="R_kgDOIr-cjg"
+            data-page-title="Data_Science_Projects"
+            data-scope-id="R_kgDOJPMQJg"
             data-scope-type="repository"
           >
           </command-palette-page>
@@ -1590,12 +1590,12 @@
 </svg>
     
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/anshilina/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/anshilina">
-        anshilina
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Sin7009/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Sin7009">
+        Sin7009
 </a>    </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/anshilina/ds_projects_2022">ds_projects_2022</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Sin7009/Data_Science_Projects">Data_Science_Projects</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1606,7 +1606,15 @@
 
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
-      
+      <li>
+  <div class="float-left" >
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Sin7009/Data_Science_Projects/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" autocomplete="off" /><input type="hidden" name="authenticity_token" value="LM49y-0FY7Mmoc_wOmd8qlL6-rtYFwOTRN6UjburcRDUyydDyGR2muLixKfoq1c_7sZwja384xur2cWv_piURQ" autocomplete="off" />
+        <button type="submit" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pin mr-2">
+    <path d="M4.456.734a1.75 1.75 0 0 1 2.826.504l.613 1.327a3.08 3.08 0 0 0 2.084 1.707l2.454.584c1.332.317 1.8 1.972.832 2.94L11.06 10l3.72 3.72a.748.748 0 0 1-.332 1.265.75.75 0 0 1-.729-.205L10 11.06l-2.204 2.205c-.968.968-2.623.5-2.94-.832l-.584-2.454a3.08 3.08 0 0 0-1.707-2.084l-1.327-.613a1.75 1.75 0 0 1-.504-2.826ZM5.92 1.866a.253.253 0 0 0-.183-.142.251.251 0 0 0-.221.07L1.794 5.516a.251.251 0 0 0-.07.221c.015.08.068.149.142.183l1.328.613A4.582 4.582 0 0 1 5.73 9.63l.584 2.454a.251.251 0 0 0 .42.12l5.47-5.47a.25.25 0 0 0-.12-.42L9.63 5.73a4.583 4.583 0 0 1-3.098-2.537Z"></path>
+</svg>Unpin
+</button></form>  </div>
+</li>
+
 
   <li>
             <notifications-list-subscription-form
@@ -1619,9 +1627,9 @@
           data-action="toggle:notifications-list-subscription-form#detailsToggled"
         >
 
-          <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="ccbc5092ed23f3e5fac08dd031e20dd77b73acf0287e064faf497756d800a549" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+          <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="12616beadeac400158d4f9d4f1a74c52c21a3272b56e9f0e718860d3cd9f86d7" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
               <span
-                hidden
+                
                 
                 data-target="notifications-list-subscription-form.unwatchButtonCopy"
               >
@@ -1641,7 +1649,7 @@
                 Stop ignoring
               </span>
               <span
-                
+                hidden
                 
                 data-target="notifications-list-subscription-form.watchButtonCopy"
               >
@@ -1671,9 +1679,9 @@
               </header>
 
               <div class="SelectMenu-list">
-                <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PqrtwPpVq0T7BEb9uIlF2JiyXfgx4LCYHImBr9lGXutUMhT0bqyS8yHMSIHTuadh6-wfokARQ-Sd4KVjgpfvHA" autocomplete="off" />
+                <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1x7uZwE1X7QrsAte0ZGsKfuhkD8w88OCfT_NQ2YvMei9hhdTlcxmA_F4BSK6oU6QiP_SZUECMP78VumPPf6AHw" autocomplete="off" />
 
-                  <input type="hidden" name="repository_id" value="582982798">
+                  <input type="hidden" name="repository_id" value="619909158">
 
                   <button
                     type="submit"
@@ -1681,7 +1689,7 @@
                     value="included"
                     class="SelectMenu-item flex-items-start"
                     role="menuitemradio"
-                    aria-checked="true"
+                    aria-checked="false"
                     data-targets="notifications-list-subscription-form.subscriptionButtons"
                     
                   >
@@ -1706,7 +1714,7 @@
                     value="subscribed"
                     class="SelectMenu-item flex-items-start"
                     role="menuitemradio"
-                    aria-checked="false"
+                    aria-checked="true"
                     data-targets="notifications-list-subscription-form.subscriptionButtons"
                   >
                     <span class="f5">
@@ -1789,9 +1797,9 @@
             hidden
           >
             <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FPM3UqbwymrA0DjIj-5ok9GgfTHekiMdIiUtNoMVSJd-a85mMgnz3RoYNrTk3ooqov4_a69j0GGjTAn62MT5YA" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="biyMOi3pC1L_Az0dkmObh5IF7H4wutPyqmM0oiMLylUEtHUOuRAy5SXLM2H5U3k-4VuuJEFLII4rChBueNp7og" autocomplete="off" />
 
-                <input type="hidden" name="repository_id" value="582982798">
+                <input type="hidden" name="repository_id" value="619909158">
 
                 <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                   <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -1940,32 +1948,32 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/anshilina/ds_projects_2022/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="0e12433eadedccba540e047aae6a5393614eda83c5f5c21fdaa19eeeedbe095e" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <button icon="repo-forked" id="fork-button" aria-disabled="true" type="button" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
-          <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
-</a>    <tool-tip id="tooltip-dfdc3598-4e70-4eff-a2c6-245e0f08de08" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of anshilina/ds_projects_2022</tool-tip>
+        <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
+</button>    <tool-tip id="tooltip-eeeb1bf8-b64e-4a87-8cf5-76ef0cf38328" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Cannot fork because you own this repository and are not a member of any organizations.</tool-tip>
 </div>
-      <details group_item="true" id="my-forks-menu-582982798" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
+      <details group_item="true" id="my-forks-menu-619909158" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/anshilina/ds_projects_2022/my_forks_menu_content?can_fork=true"
+      src="/Sin7009/Data_Science_Projects/my_forks_menu_content?can_fork=false"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-1e6a44">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-642b6b">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-1e6a44"
+        id="filter-menu-642b6b"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2007,34 +2015,34 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/anshilina/ds_projects_2022/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EA4UWqQCDuyZM8evxjsvOv1_CHQF0AVfOX_b56u_xq45pEWzkVbLFXLN2T-zaX8pHHVjBkZbKhlH7GYeoolJ2w" autocomplete="off" />
-          <input type="hidden" value="b36N8X44pXhLzYQBfL_xe8xvN4KZkiMqph-t6DNGfuhG1NwYS2xggaAzmpEJ7aFoLWVc8NoZDGzYjBAROnDxnQ" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Sin7009/Data_Science_Projects/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Z-oEehVpCZ_nXsSCe7CY_j8Hb9iebV7ohUvPHhgzDG5CbyJooLOxliAGpUiCKhdFUoFqqipl4D-cpRBduz006g" autocomplete="off" />
+          <input type="hidden" value="9_7q56aSUY16uTdqGRyAbN74sGQhs3ruFUaMf4KcsAbSe8z1E0jphL3hVqDghg_Xs361FpW7xDkMqFM8IZKIgg" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="1ebf789448cc41a50b17643ed7aa339b6b5f9d477f4d071e36095633ed2e3375" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="1a01989f8d83766bd84413d6f3e69e74208b259f074882eaba0296fed0101a68" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
 </span>            <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
-</button></form>        <details id="details-user-list-582982798-starred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</button></form>        <details id="details-user-list-619909158-starred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/anshilina/ds_projects_2022/lists"
+      src="/Sin7009/Data_Science_Projects/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-868cee">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-4eec48">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-868cee"
+        id="filter-menu-4eec48"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2055,33 +2063,33 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/anshilina/ds_projects_2022/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Ihn_PIxxQ4Ms7zT4E11uST9LBp6tychYVbodnWIQ9lOoJUaXDQGzRFlHxr73lFTuARasZDPWDaUM2i5l6FZlKQ" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Sin7009/Data_Science_Projects/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jBa0UVQgE5rk7_MlCw9BBvWgKHKrq4n-9Bd7UHSglH98YEjwkRNhBFGy1_hsCR_ljWdEn4a6zHz-2YD9AKqE6w" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="7274f86d19628e387eb852ee56dfbc1b3c35e79fbcb0ccaccc5eab8770a788b9" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="384927a273e76164c1ab8ec305b9b387c7691058b0508f83c8bfc1eed7d7a65d" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
 </span>            <span id="repo-stars-counter-star" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
-</button></form>        <details id="details-user-list-582982798-unstarred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</button></form>        <details id="details-user-list-619909158-unstarred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/anshilina/ds_projects_2022/lists"
+      src="/Sin7009/Data_Science_Projects/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-a32174">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-5903fc">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-a32174"
+        id="filter-menu-5903fc"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2117,7 +2125,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/anshilina/ds_projects_2022" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /anshilina/ds_projects_2022" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/Sin7009/Data_Science_Projects" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Sin7009/Data_Science_Projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -2129,7 +2137,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/anshilina/ds_projects_2022/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /anshilina/ds_projects_2022/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/Sin7009/Data_Science_Projects/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Sin7009/Data_Science_Projects/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -2141,7 +2149,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/anshilina/ds_projects_2022/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /anshilina/ds_projects_2022/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/Sin7009/Data_Science_Projects/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Sin7009/Data_Science_Projects/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -2153,7 +2161,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/anshilina/ds_projects_2022/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /anshilina/ds_projects_2022/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/Sin7009/Data_Science_Projects/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Sin7009/Data_Science_Projects/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -2165,7 +2173,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/anshilina/ds_projects_2022/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /anshilina/ds_projects_2022/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/Sin7009/Data_Science_Projects/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Sin7009/Data_Science_Projects/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -2177,24 +2185,48 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/anshilina/ds_projects_2022/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /anshilina/ds_projects_2022/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="wiki-tab" href="/Sin7009/Data_Science_Projects/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /Sin7009/Data_Science_Projects/wiki" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g w" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Wiki&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
+</svg>
+        <span data-content="Wiki">Wiki</span>
+          <span id="wiki-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="security-tab" href="/Sin7009/Data_Science_Projects/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Sin7009/Data_Science_Projects/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/anshilina/ds_projects_2022/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/Sin7009/Data_Science_Projects/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/anshilina/ds_projects_2022/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /anshilina/ds_projects_2022/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/Sin7009/Data_Science_Projects/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Sin7009/Data_Science_Projects/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
 </svg>
         <span data-content="Insights">Insights</span>
           <span id="insights-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="settings-tab" href="/Sin7009/Data_Science_Projects/settings" data-tab-item="i8settings-tab" data-selected-links="code_review_limits codespaces_repository_settings collaborators custom_tabs discussion_badges hooks integration_installations interaction_limits issue_template_editor key_links_settings notifications repo_actions_settings repo_announcements repo_branch_settings repo_keys_settings repo_pages_settings repo_rule_insights repo_rulesets repo_protected_tags_settings repo_settings reported_content repo_custom_properties repository_actions_settings_add_new_runner repository_actions_settings_general repository_actions_settings_runners repository_environments role_details secrets secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis /Sin7009/Data_Science_Projects/settings" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Settings&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gear UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M8 0a8.2 8.2 0 0 1 .701.031C9.444.095 9.99.645 10.16 1.29l.288 1.107c.018.066.079.158.212.224.231.114.454.243.668.386.123.082.233.09.299.071l1.103-.303c.644-.176 1.392.021 1.82.63.27.385.506.792.704 1.218.315.675.111 1.422-.364 1.891l-.814.806c-.049.048-.098.147-.088.294.016.257.016.515 0 .772-.01.147.038.246.088.294l.814.806c.475.469.679 1.216.364 1.891a7.977 7.977 0 0 1-.704 1.217c-.428.61-1.176.807-1.82.63l-1.102-.302c-.067-.019-.177-.011-.3.071a5.909 5.909 0 0 1-.668.386c-.133.066-.194.158-.211.224l-.29 1.106c-.168.646-.715 1.196-1.458 1.26a8.006 8.006 0 0 1-1.402 0c-.743-.064-1.289-.614-1.458-1.26l-.289-1.106c-.018-.066-.079-.158-.212-.224a5.738 5.738 0 0 1-.668-.386c-.123-.082-.233-.09-.299-.071l-1.103.303c-.644.176-1.392-.021-1.82-.63a8.12 8.12 0 0 1-.704-1.218c-.315-.675-.111-1.422.363-1.891l.815-.806c.05-.048.098-.147.088-.294a6.214 6.214 0 0 1 0-.772c.01-.147-.038-.246-.088-.294l-.815-.806C.635 6.045.431 5.298.746 4.623a7.92 7.92 0 0 1 .704-1.217c.428-.61 1.176-.807 1.82-.63l1.102.302c.067.019.177.011.3-.071.214-.143.437-.272.668-.386.133-.066.194-.158.211-.224l.29-1.106C6.009.645 6.556.095 7.299.03 7.53.01 7.764 0 8 0Zm-.571 1.525c-.036.003-.108.036-.137.146l-.289 1.105c-.147.561-.549.967-.998 1.189-.173.086-.34.183-.5.29-.417.278-.97.423-1.529.27l-1.103-.303c-.109-.03-.175.016-.195.045-.22.312-.412.644-.573.99-.014.031-.021.11.059.19l.815.806c.411.406.562.957.53 1.456a4.709 4.709 0 0 0 0 .582c.032.499-.119 1.05-.53 1.456l-.815.806c-.081.08-.073.159-.059.19.162.346.353.677.573.989.02.03.085.076.195.046l1.102-.303c.56-.153 1.113-.008 1.53.27.161.107.328.204.501.29.447.222.85.629.997 1.189l.289 1.105c.029.109.101.143.137.146a6.6 6.6 0 0 0 1.142 0c.036-.003.108-.036.137-.146l.289-1.105c.147-.561.549-.967.998-1.189.173-.086.34-.183.5-.29.417-.278.97-.423 1.529-.27l1.103.303c.109.029.175-.016.195-.045.22-.313.411-.644.573-.99.014-.031.021-.11-.059-.19l-.815-.806c-.411-.406-.562-.957-.53-1.456a4.709 4.709 0 0 0 0-.582c-.032-.499.119-1.05.53-1.456l.815-.806c.081-.08.073-.159.059-.19a6.464 6.464 0 0 0-.573-.989c-.02-.03-.085-.076-.195-.046l-1.102.303c-.56.153-1.113.008-1.53-.27a4.44 4.44 0 0 0-.501-.29c-.447-.222-.85-.629-.997-1.189l-.289-1.105c-.029-.11-.101-.143-.137-.146a6.6 6.6 0 0 0-1.142 0ZM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8Z"></path>
+</svg>
+        <span data-content="Settings">Settings</span>
+          <span id="settings-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 
     
@@ -2210,32 +2242,40 @@
 </summary>
   <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">          <ul>
               <li data-menu-item="i0code-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /anshilina/ds_projects_2022" href="/anshilina/ds_projects_2022">
+                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Sin7009/Data_Science_Projects" href="/Sin7009/Data_Science_Projects">
                   Code
 </a>              </li>
               <li data-menu-item="i1issues-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /anshilina/ds_projects_2022/issues" href="/anshilina/ds_projects_2022/issues">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Sin7009/Data_Science_Projects/issues" href="/Sin7009/Data_Science_Projects/issues">
                   Issues
 </a>              </li>
               <li data-menu-item="i2pull-requests-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /anshilina/ds_projects_2022/pulls" href="/anshilina/ds_projects_2022/pulls">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Sin7009/Data_Science_Projects/pulls" href="/Sin7009/Data_Science_Projects/pulls">
                   Pull requests
 </a>              </li>
               <li data-menu-item="i3actions-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /anshilina/ds_projects_2022/actions" href="/anshilina/ds_projects_2022/actions">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Sin7009/Data_Science_Projects/actions" href="/Sin7009/Data_Science_Projects/actions">
                   Actions
 </a>              </li>
               <li data-menu-item="i4projects-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /anshilina/ds_projects_2022/projects" href="/anshilina/ds_projects_2022/projects">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Sin7009/Data_Science_Projects/projects" href="/Sin7009/Data_Science_Projects/projects">
                   Projects
 </a>              </li>
-              <li data-menu-item="i5security-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /anshilina/ds_projects_2022/security" href="/anshilina/ds_projects_2022/security">
+              <li data-menu-item="i5wiki-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /Sin7009/Data_Science_Projects/wiki" href="/Sin7009/Data_Science_Projects/wiki">
+                  Wiki
+</a>              </li>
+              <li data-menu-item="i6security-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Sin7009/Data_Science_Projects/security" href="/Sin7009/Data_Science_Projects/security">
                   Security
 </a>              </li>
-              <li data-menu-item="i6insights-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /anshilina/ds_projects_2022/pulse" href="/anshilina/ds_projects_2022/pulse">
+              <li data-menu-item="i7insights-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Sin7009/Data_Science_Projects/pulse" href="/Sin7009/Data_Science_Projects/pulse">
                   Insights
+</a>              </li>
+              <li data-menu-item="i8settings-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="code_review_limits codespaces_repository_settings collaborators custom_tabs discussion_badges hooks integration_installations interaction_limits issue_template_editor key_links_settings notifications repo_actions_settings repo_announcements repo_branch_settings repo_keys_settings repo_pages_settings repo_rule_insights repo_rulesets repo_protected_tags_settings repo_settings reported_content repo_custom_properties repository_actions_settings_add_new_runner repository_actions_settings_general repository_actions_settings_runners repository_environments role_details secrets secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis /Sin7009/Data_Science_Projects/settings" href="/Sin7009/Data_Science_Projects/settings">
+                  Settings
 </a>              </li>
           </ul>
 </details-menu>
@@ -2268,7 +2308,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/anshilina/ds_projects_2022/blob/615882c0508863c05681325834cee0b4be12c7f3/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Sin7009/Data_Science_Projects/blob/b51bacb26c08d37cfc9a7f388a1ea2a8ea77d358/README.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2276,7 +2316,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="998fd13b06a541f81a0f0934fb7447464118dda08927cc2d79a3b45b63bcad45">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="bc055c9d93ec4e2d54b4af646e100081b2a3a247e93631e254ca5fcb325aafd4">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2307,8 +2347,8 @@
                  data-controls-ref-menu-id="ref-list-branches"
                  autofocus
                  autocomplete="off"
-                 aria-label="Filter branches/tags"
-                 placeholder="Filter branches/tags"
+                 aria-label="Find or create a branch…"
+                 placeholder="Find or create a branch…"
                  type="text"
           >
         </div>
@@ -2318,7 +2358,7 @@
           <button class="SelectMenu-tab" type="button" role="tab">Tags</button>
         </div>
 
-        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Filter branches/tags" tabindex="" class="d-flex flex-column flex-auto overflow-auto">
+        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Find or create a branch…" tabindex="" class="d-flex flex-column flex-auto overflow-auto">
           <ref-selector
             type="branch"
             data-targets="input-demux.sinks"
@@ -2327,12 +2367,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/anshilina/ds_projects_2022/refs"
-            
-            cache-key="v0:1672229960.6486778"
+            query-endpoint="/Sin7009/Data_Science_Projects/refs"
+            can-create
+            cache-key="v0:1679935646.391807"
             current-committish="bWFpbg=="
             default-branch="bWFpbg=="
-            name-with-owner="YW5zaGlsaW5hL2RzX3Byb2plY3RzXzIwMjI="
+            name-with-owner="U2luNzAwOS9EYXRhX1NjaWVuY2VfUHJvamVjdHM="
             prefetch-on-mouseover
           >
 
@@ -2341,7 +2381,31 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <div class="SelectMenu-message">Nothing to show</div>
+    <create-repo-from-selector
+      check-tag-name-exists-path="/Sin7009/Data_Science_Projects/branches/check_tag_name_exists"
+    >
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Sin7009/Data_Science_Projects/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1BImTPgJ3f7zpnE9aycj1wTPJwvuVnAHmTH2jYRxPDcAZnqPGRbwBwXP6VcszucswpWOsxRNJy2Oe6sBOKurIQ" />
+        <input data-target="create-repo-from-selector.refName" type="hidden" name="name" value="{{ refName }}">
+        <input type="hidden" name="branch"  value="main">
+        <input type="hidden" name="path_binary" value="UkVBRE1FLm1k">
+
+        <button
+          class="SelectMenu-item wb-break-word"
+          type="submit"
+          role="menuitem"
+          data-index="{{ index }}"
+          data-action="click:create-repo-from-selector#createBranch"
+          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:619909158,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="d4ceceba86901aac14fe7bda63e58c358f02d36b5b99be37b7d34a467dbbec34">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
+    <path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path>
+</svg>
+          <div>
+            <span class="text-bold">Create branch: {{ refName }}</span>
+            <span class="color-fg-muted">from ‘main’</span>
+            <input type="hidden" value="T8uqNP-xMwetvmhw8pJLvlWKrdZ800judu21JFuYxFmj0sK8evZPljq9l7Lxtrf1zqJRP18F2WDjmzAYWsfpIQ" data-csrf="true" data-target="create-repo-from-selector.checkTagNameExistsPathCsrf" />
+          </div>
+        </button>
+</form>    </create-repo-from-selector>
 </template>
 
 
@@ -2357,7 +2421,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/anshilina/ds_projects_2022/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Sin7009/Data_Science_Projects/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2367,7 +2431,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/anshilina/ds_projects_2022/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Sin7009/Data_Science_Projects/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2381,11 +2445,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/anshilina/ds_projects_2022/refs"
-            cache-key="v0:1672229960.6486778"
+            query-endpoint="/Sin7009/Data_Science_Projects/refs"
+            cache-key="v0:1679935646.391807"
             current-committish="bWFpbg=="
             default-branch="bWFpbg=="
-            name-with-owner="YW5zaGlsaW5hL2RzX3Byb2plY3RzXzIwMjI="
+            name-with-owner="U2luNzAwOS9EYXRhX1NjaWVuY2VfUHJvamVjdHM="
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -2399,7 +2463,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/anshilina/ds_projects_2022/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Sin7009/Data_Science_Projects/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2417,7 +2481,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/anshilina/ds_projects_2022/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Sin7009/Data_Science_Projects/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2460,9 +2524,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/anshilina/ds_projects_2022"><span>ds_projects_2022</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Sin7009/Data_Science_Projects"><span>Data_Science_Projects</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
   </h2>
-    <a href="/anshilina/ds_projects_2022/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+    <a href="/Sin7009/Data_Science_Projects/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -2471,7 +2535,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="58e862a8e7535966ff30984da5ea6a914a33d373586937e304dde0c238b34394" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/anshilina/ds_projects_2022/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="843f1ab47855f2e82866ca9e5c67c92a744c13d7fa9a4d28adc4c70419a5a90d" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/Sin7009/Data_Science_Projects/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2489,7 +2553,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/anshilina/ds_projects_2022/blob/615882c0508863c05681325834cee0b4be12c7f3/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Sin7009/Data_Science_Projects/blob/b51bacb26c08d37cfc9a7f388a1ea2a8ea77d358/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2517,10 +2581,10 @@
   
 </div></div>
 
-    <include-fragment src="/anshilina/ds_projects_2022/spoofed_commit_check/615882c0508863c05681325834cee0b4be12c7f3" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/Sin7009/Data_Science_Projects/spoofed_commit_check/b51bacb26c08d37cfc9a7f388a1ea2a8ea77d358" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/anshilina/ds_projects_2022/contributors/main/README.md" class="commit-loader">
+  <include-fragment src="/Sin7009/Data_Science_Projects/contributors/main/README.md" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2554,8 +2618,8 @@
 
       <details
   data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}"
-  data-menu-hydro-click-hmac="58fcd1cf427e4925d577f7aafec399d0280ab8a8bf91ff1ece7132f59582e08f"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}"
+  data-menu-hydro-click-hmac="82c0b6fd05b5194b6c6e2274d4afaab7688f1b507a93394f6d6f728061103e0a"
   class="dropdown details-reset details-overlay"
 >
   <summary
@@ -2573,10 +2637,11 @@
 
 
       <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="599827280558b0c8276c146c96d89f4f5dbf55e4a2b91deedab396f843a0ed7c" href="#projects-2022-2023">Projects 2022-2023</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="599827280558b0c8276c146c96d89f4f5dbf55e4a2b91deedab396f843a0ed7c" href="#these-projects-were-completed-during-yandexpracticum-course-specialist-in-data-science">These projects were completed during Yandex.Practicum course "Specialist in Data Science"</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="599827280558b0c8276c146c96d89f4f5dbf55e4a2b91deedab396f843a0ed7c" href="#проекты-2022">Проекты 2022</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="599827280558b0c8276c146c96d89f4f5dbf55e4a2b91deedab396f843a0ed7c" href="#данные-проекты-были-реализованы-в-рамках-курса-яндекспрактикум-специалист-по-data-science">Данные проекты были реализованы в рамках курса Яндекс.Практикум "Специалист по Data Science"</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="94a02b68b7c368f7d69054a6747dcc3edaa893f9d669641fc93bcceb69f160be" href="#data_science_projects">Data_Science_Projects</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="94a02b68b7c368f7d69054a6747dcc3edaa893f9d669641fc93bcceb69f160be" href="#projects-2022-2023">Projects 2022-2023</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="94a02b68b7c368f7d69054a6747dcc3edaa893f9d669641fc93bcceb69f160be" href="#these-projects-were-completed-during-yandexpracticum-course-specialist-in-data-science">These projects were completed during Yandex.Practicum course "Specialist in Data Science"</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="94a02b68b7c368f7d69054a6747dcc3edaa893f9d669641fc93bcceb69f160be" href="#проекты-2022">Проекты 2022</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="94a02b68b7c368f7d69054a6747dcc3edaa893f9d669641fc93bcceb69f160be" href="#данные-проекты-были-реализованы-в-рамках-курса-яндекспрактикум-специалист-по-data-science">Данные проекты были реализованы в рамках курса Яндекс.Практикум "Специалист по Data Science"</a>
       </div>
     </div>
   </details-menu>
@@ -2585,49 +2650,49 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      48 lines (34 sloc)
+      49 lines (36 sloc)
       <span class="file-info-divider"></span>
-    14.7 KB
+    13.4 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-      <a href="/anshilina/ds_projects_2022/blob/main/README.md?plain=1" data-permalink-href="/anshilina/ds_projects_2022/blob/615882c0508863c05681325834cee0b4be12c7f3/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+      <a href="/Sin7009/Data_Science_Projects/blob/main/README.md?plain=1" data-permalink-href="/Sin7009/Data_Science_Projects/blob/b51bacb26c08d37cfc9a7f388a1ea2a8ea77d358/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a>      <a href="/anshilina/ds_projects_2022/blob/main/README.md" data-permalink-href="/anshilina/ds_projects_2022/blob/615882c0508863c05681325834cee0b4be12c7f3/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>      <a href="/Sin7009/Data_Science_Projects/blob/main/README.md" data-permalink-href="/Sin7009/Data_Science_Projects/blob/b51bacb26c08d37cfc9a7f388a1ea2a8ea77d358/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path>
 </svg>
 </a>  </div>
 
 
     <div class="BtnGroup">
-        <a data-permalink-href="/anshilina/ds_projects_2022/raw/615882c0508863c05681325834cee0b4be12c7f3/README.md" href="/anshilina/ds_projects_2022/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/anshilina/ds_projects_2022/blame/615882c0508863c05681325834cee0b4be12c7f3/README.md" href="/anshilina/ds_projects_2022/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/Sin7009/Data_Science_Projects/raw/b51bacb26c08d37cfc9a7f388a1ea2a8ea77d358/README.md" href="/Sin7009/Data_Science_Projects/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/Sin7009/Data_Science_Projects/blame/b51bacb26c08d37cfc9a7f388a1ea2a8ea77d358/README.md" href="/Sin7009/Data_Science_Projects/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/anshilina/ds_projects_2022/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TmUao7wZQRnuEqE-5oIQm3X8Pfyd7uwBc_by3QfgcePAWJxiklOrnSmEcQyNyPA_El773pAZg1S-DJr4pMld6Q" autocomplete="off" />
-      <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Sin7009/Data_Science_Projects/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TX1oNvyZ7hQ55wT5Cw1CEPelfwWIn6uvo9bR1OhmL6llvxho1MGRfhiaff8V-TPSUHTF3gr9krOJFZ2kc04hXA" autocomplete="off" />
+      <button title="Edit this file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
 </button></form>
   <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
-      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:582982798,&quot;actor_id&quot;:82525419,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:619909158,&quot;actor_id&quot;:82525419,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/anshilina/ds_projects_2022/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="09cCbSSKj-qKKUFQv5HOmhyly90LvZ4tl6aYCvyImjZd6oSsCsBlbk2_kWLU2y4-ewcN_wZK8XhaXPAvX6G2PA" autocomplete="off" />
-              <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Sin7009/Data_Science_Projects/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KSPQVOHmNys35j8XE0Zn0gYR4BWxPmPuPXEyIwK6AKwB4aAKyb5IQRabRhENshYQocBazjNcWvIXsn5TmZIOWQ" autocomplete="off" />
+              <button title="Edit this file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
-            <a aria-label="Open this file in github.dev" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:582982798,&quot;actor_id&quot;:82525419,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
+            <a aria-label="Open this file in github.dev" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:619909158,&quot;actor_id&quot;:82525419,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/anshilina/ds_projects_2022?branch=main&amp;filepath=README.md" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/Sin7009/Data_Science_Projects?branch=main&amp;filepath=README.md" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2638,10 +2703,10 @@
 
         
 <div >
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/anshilina/ds_projects_2022/raw/615882c0508863c05681325834cee0b4be12c7f3/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Sin7009/Data_Science_Projects/raw/b51bacb26c08d37cfc9a7f388a1ea2a8ea77d358/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="77f1ba0eb51a487203e2da5eab89e835c60581ec495e9a09757f5bc74e968c34" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="5454f00a802779deaab371027554079641b1b5c6943842172ad0bc1ef3a1628e" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
@@ -2666,9 +2731,9 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/anshilina/ds_projects_2022/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8DZCxhoNn0rfvSvxbXGRp8-kgzJirtw5dfEDtEuCAEkNDdwUA5RLK_wMTJz6aej1IvVa4GtZip76fhVLS4ialA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Sin7009/Data_Science_Projects/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ibQVsRYavG6R4pmuhzX_2gCVTCq-3i_LPYjKPiayzu-XYNrsq1bkiSfIVRIxY82Ku_ULLsShOk-DxYFhUDszlQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Fork this repository and delete the file" data-disable-with>
+              aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
     <path d="M11 1.75V3h2.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75ZM4.496 6.675l.66 6.6a.25.25 0 0 0 .249.225h5.19a.25.25 0 0 0 .249-.225l.66-6.6a.75.75 0 0 1 1.492.149l-.66 6.6A1.748 1.748 0 0 1 10.595 15h-5.19a1.75 1.75 0 0 1-1.741-1.575l-.66-6.6a.75.75 0 1 1 1.492-.15ZM6.5 1.75V3h3V1.75a.25.25 0 0 0-.25-.25h-2.5a.25.25 0 0 0-.25.25Z"></path>
 </svg>
@@ -2683,7 +2748,7 @@
           aria-haspopup="true"
           aria-label="possible actions"
           
-          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:582982798,&quot;actor_id&quot;:82525419,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
+          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:619909158,&quot;actor_id&quot;:82525419,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
         >
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
@@ -2694,20 +2759,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/anshilina/ds_projects_2022?branch=main&amp;filepath=README.md">
+                   href="x-github-client://openRepo/https://github.com/Sin7009/Data_Science_Projects?branch=main&amp;filepath=README.md">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/anshilina/ds_projects_2022/raw/main/README.md">
+            <a class="dropdown-item" href="/Sin7009/Data_Science_Projects/raw/main/README.md">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/anshilina/ds_projects_2022/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Sin7009/Data_Science_Projects/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:582982798,&quot;originating_url&quot;:&quot;https://github.com/anshilina/ds_projects_2022/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="77f1ba0eb51a487203e2da5eab89e835c60581ec495e9a09757f5bc74e968c34">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:619909158,&quot;originating_url&quot;:&quot;https://github.com/Sin7009/Data_Science_Projects/blob/main/README.md&quot;,&quot;user_id&quot;:82525419}}" data-hydro-click-hmac="5454f00a802779deaab371027554079641b1b5c6943842172ad0bc1ef3a1628e">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2730,20 +2795,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/anshilina/ds_projects_2022/blame/main/README.md">
+              <a class="dropdown-item" href="/Sin7009/Data_Science_Projects/blame/main/README.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/anshilina/ds_projects_2022/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/Sin7009/Data_Science_Projects/edit/main/README.md">Edit file</a>
               </li>
                 <li>
-                  <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:582982798,&quot;actor_id&quot;:82525419,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
+                  <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:619909158,&quot;actor_id&quot;:82525419,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/anshilina/ds_projects_2022/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Sin7009/Data_Science_Projects/delete/main/README.md">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2752,7 +2817,9 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-projects-2022-2023" class="anchor" aria-hidden="true" href="#projects-2022-2023"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Projects 2022-2023</h1>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-data_science_projects" class="anchor" aria-hidden="true" href="#data_science_projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Data_Science_Projects</h1>
+<p dir="auto">Data Science projects from Yandex Practicum completed in 2022-2023</p>
+<h1 dir="auto"><a id="user-content-projects-2022-2023" class="anchor" aria-hidden="true" href="#projects-2022-2023"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Projects 2022-2023</h1>
 <h2 dir="auto"><a id="user-content-these-projects-were-completed-during-yandexpracticum-course-specialist-in-data-science" class="anchor" aria-hidden="true" href="#these-projects-were-completed-during-yandexpracticum-course-specialist-in-data-science"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>These projects were completed during Yandex.Practicum course "Specialist in Data Science"</h2>
 <table>
 <thead>
@@ -2764,67 +2831,67 @@
 </thead>
 <tbody>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/predicting_car_price">Predicting car price</a></td>
+<td align="left"><a href="https://github.com/Sin7009/Data_Science_Projects/blob/main/Projects/Determining%20vehicle%20values.ipynb">Predicting car price</a></td>
 <td align="left">We need to build a ML model that will show the market value of the car. The following data is available: technical characteristics, configurations and prices of cars. Our <strong>goal</strong>: to choose the best model for predicting car price based on its characteristics.</td>
 <td align="left"><em>pandas, numpy, random, time, warnings, sklearn, lightgbm, catboost, IPython, matplotlib, seaborn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/predicting_number_of_taxi_orders">Predicting number of taxi orders</a></td>
+<td align="left"><a href="https://github.com/Sin7009/Data_Science_Projects/blob/main/Projects/Forecasting%20taxi%20orders.ipynb">Predicting number of taxi orders</a></td>
 <td align="left">We need to build ML model that <strong>predicts the number of taxi orders for the next hour</strong>. In this project, we will process and analyse time-series data.</td>
 <td align="left"><em>pandas, numpy, statsmodels, sklearn, time, IPython, pprint, matplotlib, seaborn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/modeling_the_process_of_gold_mining">Modeling the process of gold mining</a></td>
+<td align="left"><a href="https://github.com/Sin7009/Data_Science_Projects/blob/main/Projects/Assembled%20project%20-%202.ipynb">Modeling the process of gold mining</a></td>
 <td align="left">We need to choose the best ML model that will predict the coefficient of gold that could be recovered from gold ore. We will use input and output data parameters collected at different stages of gold mining. This model will help to optimize production and not to launch an enterprise with unprofitable characteristics.</td>
 <td align="left"><em>pandas, numpy, IPython, matplotlib, seaborn, sklearn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/choosing_location_for_oil_well_drill_sites">Choosing region for oil well drill site</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Choosing region for oil well drill site</a></td>
 <td align="left">We have to choose the best region for oil company to drill a new well. There is data on oil samples in three regions: 10,000 observations in each region, where the quality of oil and the volume of its reserves were measured. To choose region, where mining will be the most profitable, we will use ML models. Profit and risks will be analyzed using <em>bootstrap sampling</em>.</td>
 <td align="left"><em>pandas, numpy, sklearn, IPython, matplotlib, seaborn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/toxic_comments_classification">Toxic comments classification for online store</a></td>
-<td align="left">In this project, we build a ML model that detect toxic comments. Our <strong>goal</strong>: to find the best ML model that classifies comments as positive or negative (toxic). This project was also conducted using BERT model (available on the <a href="https://github.com/anshilina/ds_projects_2022/blob/main/toxic_comments_classification/toxic_comments_classification_BERT.ipynb">link</a>).</td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Toxic comments classification for online store</a></td>
+<td align="left">In this project, we build a ML model that detect toxic comments. Our <strong>goal</strong>: to find the best ML model that classifies comments as positive or negative (toxic). This project was also conducted using BERT model (available on the <a href="/Sin7009/Data_Science_Projects/blob/main">link</a>).</td>
 <td align="left"><em>pandas, numpy, re, nltk, spacy, sklearn, lightgbm, catboost, xgboost, time, IPython, pprint, matplotlib, seaborn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/detecting_age_by_face_photo">Detecting age by face photo</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Detecting age by face photo</a></td>
 <td align="left">Photographs of people's faces and data on their real age are available. Our <strong>goal</strong>: to detect the age by the photo. We will build a neural network that will predict a person's age by face photo. We employ ResNet-50 as the backbone network.</td>
 <td align="left"><em>pandas, numpy, tensorflow, matplotlib, seaborn, IPython, PIL</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/bank_customers_attrition">Bank customers attrition analysis</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Bank customers attrition analysis</a></td>
 <td align="left">In this research, the <strong>goal</strong> is to predict whether the client will leave the bank in the near future or not. Using the data on customers we will classify them on those who will leave and will not.</td>
 <td align="left"><em>pandas, random, numpy, sklearn, imblearn, matplotlib, seaborn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/advertising_campaign_for_play_store">Advertising campaign for the play store</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Advertising campaign for the play store</a></td>
 <td align="left">In this research, we use open data on game sales, users' and experts' ratings, genres and platforms (for example, Xbox or PlayStation). We need to analyze data, determine the factors of the game success, identify a potentially popular product and develop recommendations for the advertising campaign of the game store.</td>
 <td align="left"><em>pandas, scipy, IPython, matplotlib, seaborn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/mobile_tariffs_recommendations">Research on the recommendation of mobile tariffs</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Research on the recommendation of mobile tariffs</a></td>
 <td align="left">We have data on customers and their mobile plan. We will build ML model to classify tariffs using customers' data.</td>
 <td align="left"><em>pandas, IPython, seaborn, matplotlib, sklearn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/mobiles_plan">Mobile plans research</a></td>
+<td align="left"><a href="https://github.com/Sin7009/Data_Science_Projects/blob/main/Projects/Tariff%20recommendation.ipynb">Mobile plans research</a></td>
 <td align="left">Using data on mobile tariffs we need to find out which one is more profitable. In this research, the <strong>goal</strong> is to conduct a comparison analysis of two tariffs on a small sample of customers.</td>
 <td align="left"><em>numpy, pandas, IPython, matplotlib, seaborn, scipy</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/protection_of_customers_personal_information">Protection of the personal information provided by customers</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Protection of the personal information provided by customers</a></td>
 <td align="left">We have to select and use data transformation method so that 1) it will be difficult to restore personal information and 2) the quality of the model does not change.</td>
 <td align="left"><em>pandas, numpy, random, seaborn, matplotlib, IPython, sklearn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/apartments_sales">Exploring sales advertising in the housing market in St. Petersburg</a></td>
+<td align="left"><a href="https://github.com/Sin7009/Data_Science_Projects/blob/main/Projects/Project%20Exploratory%20Data%20Analysis.ipynb">Exploring sales advertising in the housing market in St. Petersburg</a></td>
 <td align="left">There are ads of apartments for sale in St. Petersburg and neighboring settlements over several years. We need to select parameters that will be used in automated system that monitors outliers and fraudulent activity.</td>
 <td align="left"><em>re, pandas, numpy, statistics, seaborn, IPython, matplotlib</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/debtors_reliability">Study of debtors' reliability</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Study of debtors' reliability</a></td>
 <td align="left">In this project, we examine the relationship between income, work experience, number of family members, and other characteristics of borrowers and their ability to return loans on time.</td>
 <td align="left"><em>pandas, seaborn, matplotlib, numpy</em></td>
 </tr>
@@ -2842,67 +2909,67 @@
 </thead>
 <tbody>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/predicting_car_price">Определение стоимости автомобилей</a></td>
+<td align="left"><a href="https://github.com/Sin7009/Data_Science_Projects/blob/main/Projects/Determining%20vehicle%20values.ipynb">Определение стоимости автомобилей</a></td>
 <td align="left">Нам необходимо обучить модель машинного обучения, которая будет предсказывать рыночную стоимость автомобиля. В доступе следующие данные: технические характеристики, комплектации и цены автомобилей. Наша цель: выбрать модель для предсказания стоимости авто по его характеристикам.</td>
 <td align="left"><em>pandas, numpy, random, time, warnings, sklearn, lightgbm, catboost, IPython, matplotlib, seaborn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/predicting_number_of_taxi_orders">Прогнозирование заказов такси</a></td>
+<td align="left"><a href="https://github.com/Sin7009/Data_Science_Projects/blob/main/Projects/Forecasting%20taxi%20orders.ipynb">Прогнозирование заказов такси</a></td>
 <td align="left">В этом проекте мы выбираем модель машинного обучения, которая будет <strong>прогнозировать количество заказов такси на следующий час</strong>. Мы будем обрабатывать и анализировать временные ряды.</td>
 <td align="left"><em>pandas, numpy, statsmodels, sklearn, time, IPython, pprint, matplotlib, seaborn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/modeling_the_process_of_gold_mining">Моделирование процесса восстановления золота из руды</a></td>
+<td align="left"><a href="https://github.com/Sin7009/Data_Science_Projects/blob/main/Projects/Assembled%20project%20-%202.ipynb">Моделирование процесса восстановления золота из руды</a></td>
 <td align="left">Необходимо подготовить прототип модели машинного обучения, которая будет предсказать коэффициент восстановления золота из золотосодержащей руды. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.</td>
 <td align="left"><em>pandas, numpy, IPython, matplotlib, seaborn, sklearn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/choosing_location_for_oil_well_drill_sites">Выбор локации для нефтяной скважины</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Выбор локации для нефтяной скважины</a></td>
 <td align="left">Необходимо решить, где бурить новую нефтяную скважину. Есть данные по пробам нефти в трёх регионах: в каждом 10 000 месторождений, где измерили качество нефти и объём её запасов. Для принятия решения, необходимо определить, где добыча принесёт наибольшую прибыль. Для этого будет построена модель машинного обучения. Возможная прибыль и риски будут проанализированы техникой <em>Bootstrap.</em></td>
 <td align="left"><em>pandas, numpy, sklearn, IPython, matplotlib, seaborn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/toxic_comments_classification">Классификация токсичных комментариев для интернет-магазина</a></td>
-<td align="left">Нам необходимо выбрать модель машинного обучения, которая будет искать токсичные комментарии и отправлять их на модерацию. Наша <strong>задача</strong>: обучить модель классифицировать комментарии на позитивные и негативные. Данный проект также был реализован с использованием BERT (ознакомиться можно по <a href="https://github.com/anshilina/ds_projects_2022/blob/main/toxic_comments_classification/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D1%87%D0%BD%D1%8B%D1%85_%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2_BERT.ipynb">ссылке</a>).</td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Классификация токсичных комментариев для интернет-магазина</a></td>
+<td align="left">Нам необходимо выбрать модель машинного обучения, которая будет искать токсичные комментарии и отправлять их на модерацию. Наша <strong>задача</strong>: обучить модель классифицировать комментарии на позитивные и негативные. Данный проект также был реализован с использованием BERT.</td>
 <td align="left"><em>pandas, numpy, re, nltk, spacy, sklearn, lightgbm, catboost, xgboost, time, IPython, pprint, matplotlib, seaborn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/detecting_age_by_face_photo">Определение возраста по фотографии</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Определение возраста по фотографии</a></td>
 <td align="left">Нам доступны фотографии людей и данные о их реальном возрасте. Наша <strong>задача</strong>: определить возраст по фотографии. В данном проекте мы решаем проблему регрессии. Целевая метрика качества: MSE (&lt; 7). Мы создадим нейронную сеть, которая будет предсказывать возраст человека по фотографии. Основой нейронной сети будет ResNet50.</td>
 <td align="left"><em>pandas, numpy, tensorflow, matplotlib, seaborn, IPython, PIL</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/bank_customers_attrition">Прогнозирование оттока клиентов из банка</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Прогнозирование оттока клиентов из банка</a></td>
 <td align="left"><strong>Цель</strong> данного проекта: спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мы будем решать задачу классификации.</td>
 <td align="left"><em>pandas, random, numpy, sklearn, imblearn, matplotlib, seaborn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/advertising_campaign_for_play_store">Рекламная кампания для магазина компьютерных игр</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Рекламная кампания для магазина компьютерных игр</a></td>
 <td align="left">В проекте используются данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Необходимо проанализировать данные, определить что определяет успешность игры, выявить потенциально популярный продукт и разработать рекомендации для рекламной кампании магазина.</td>
 <td align="left"><em>pandas, scipy, IPython, matplotlib, seaborn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/mobile_tariffs_recommendations">Рекомендация тарифов сотовой связи</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Рекомендация тарифов сотовой связи</a></td>
 <td align="left">В нашем распоряжении данные о клиентах мобильных тарифов. Нужно построить модель для задачи классификации, которая будет подбирать подходящий тариф для новых клиентов.</td>
 <td align="left"><em>pandas, IPython, seaborn, matplotlib, sklearn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/mobiles_plan">Исследование тарифов сотовой связи</a></td>
+<td align="left"><a href="https://github.com/Sin7009/Data_Science_Projects/blob/main/Projects/Tariff%20recommendation.ipynb">Исследование тарифов сотовой связи</a></td>
 <td align="left">Необходимо проанализировать данные о клиентах и тарифах сотовой связи, которые они используют, чтобы понять, какой тариф приносит больше денег. <strong>Цель:</strong> провести предварительный анализ тарифов на небольшой выборке клиентов.</td>
 <td align="left"><em>numpy, pandas, IPython, matplotlib, seaborn, scipy</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/protection_of_customers_personal_information">Защита персональных данных клиентов</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Защита персональных данных клиентов</a></td>
 <td align="left">Нужно защитить данные клиентов страховой компании Необходимо разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию, а также обосновать корректность его работы.</td>
 <td align="left"><em>pandas, numpy, random, seaborn, matplotlib, IPython, sklearn</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/apartments_sales">Исследование объявлений о продаже квартир</a></td>
+<td align="left"><a href="https://github.com/Sin7009/Data_Science_Projects/blob/main/Projects/Project%20Exploratory%20Data%20Analysis.ipynb">Исследование объявлений о продаже квартир</a></td>
 <td align="left">В рамках данного проекта необходимо установить параметры, которые позволят построить автоматизированную систему, отслеживающую аномалии и мошенническую деятельность.</td>
 <td align="left"><em>re, pandas, numpy, statistics, seaborn, IPython, matplotlib</em></td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/anshilina/ds_projects_2022/tree/main/debtors_reliability">Исследование надежности заемщиков</a></td>
+<td align="left"><a href="/Sin7009/Data_Science_Projects/blob/main">Исследование надежности заемщиков</a></td>
 <td align="left">В проекте рассматривается взаимосвязь между доходом, стажем работы, количеством членов семьи и проч. характеристиками заёмщиков и их способностью возвращать заёмы в срок.</td>
 <td align="left"><em>pandas, seaborn, matplotlib, numpy</em></td>
 </tr>
@@ -2937,7 +3004,7 @@
   <details-dialog
     class="Box d-flex flex-column anim-fade-in fast Box--overlay overflow-visible"
       aria-label="Provide feedback"
-      src="/anshilina/ds_projects_2022/repos/code_nav_survey"
+      src="/Sin7009/Data_Science_Projects/repos/code_nav_survey"
       
     >
     <div class="Box-header">
